@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**NamanJain19/NamanJain19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm currently working on web development and cloud computing with AWS projects<br>I'm currently learning AWS cloud and oracle certification <br>I'm currently pursuing the BCS final year<br>I like exploring technology and improving my skills every day<br>
 
@@ -20,7 +15,4 @@ I'm currently working on web development and cloud computing with AWS projects<b
 ---
 [![](https://visitcount.itsvg.in/api?id=NamanJain19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Here are some ideas to get you started:
-
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
