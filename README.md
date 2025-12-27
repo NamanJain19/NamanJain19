@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web development and cloud computing with AWS projects<br>I'm currently learning AWS cloud and oracle certification <br>I'm currently pursuing the BCS final year<br>I like exploring technology and improving my skills every day<br>
+I'm currently working on web development and cloud computing with AWS projects<br>I'm currently learning AWS cloud and oracle certification <br>I'm working as an intern for CTCC. 1 month in cloud computing  <br>I'm currently pursuing the BCS final year<br>I like exploring technology and improving my skills every day<br>
 
 
 ## 🌐 Socials:
