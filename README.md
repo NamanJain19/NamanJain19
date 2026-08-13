@@ -1,49 +1,51 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                       HERO SECTION                         -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:111827,100:1e3a8a&text=NAMAN%20JAIN&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CLOUD%20%7C%20AI%20AUTOMATION&descAlignY=61&descSize=17&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:111827,100:1e3a8a&text=NAMAN%20JAIN&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CLOUD%20%7C%20AI%20AUTOMATION&descAlignY=62&descSize=17&animation=twinkling"
     width="100%"
+    alt="Naman Jain Header"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I'm+Naman+Jain+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;AI+Automation+Enthusiast+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Building+Real+World+Software+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi%2C+I'm+Naman+Jain+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;AI+Automation+Enthusiast+%F0%9F%A4%96;Building+Real+World+Software+%F0%9F%9A%80"
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
   <a href="https://personal-portfolio-git-main-namanjain19s-projects.vercel.app">
-    <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/naman-jain-513267364">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/NamanJain19">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamanJain19&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NamanJain19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e293b&text=🧑‍💻%20ABOUT%20ME&fontColor=ffffff&fontSize=28&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:1e293b&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontColor=ffffff&fontSize=28&animation=fadeIn"
     width="100%"
+    alt="About Me"
   />
 </p>
 
@@ -60,13 +62,17 @@ I work across **full-stack development, mobile applications, cloud computing, De
 
 ### 💫 What I Do
 
-- 💻 Build full-stack web applications
-- 📱 Develop mobile applications with React Native
-- ☁️ Work with cloud technologies
-- ⚙️ Explore DevOps and containerization
-- 🤖 Build AI-powered automation workflows
-- 🗄️ Design and work with databases
-- 🚀 Build real-world software projects
+- 💻 Full Stack Development
+- 📱 Mobile Application Development
+- ☁️ Cloud Computing
+- ⚙️ DevOps & Deployment
+- 🤖 AI Automation
+- 🗄️ Database Development
+- 🚀 Building Real-World Products
+
+### 📍 Based In
+
+**Bhilwara, Rajasthan, India 🇮🇳**
 
 </td>
 
@@ -80,27 +86,28 @@ I work across **full-stack development, mobile applications, cloud computing, De
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BCA-Final%20Year-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BCA-Final%20Year-2563EB?style=for-the-badge" alt="BCA"/>
 <br>
-<img src="https://img.shields.io/badge/Cloud-Computing-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Computing-0EA5E9?style=for-the-badge" alt="Cloud"/>
 <br>
-<img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=for-the-badge" alt="AI"/>
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CURRENT FOCUS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                           -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0f172a,100:172554&text=🚀%20CURRENT%20FOCUS&fontColor=ffffff&fontSize=28&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0f172a,100:172554&text=%F0%9F%9A%80%20CURRENT%20FOCUS&fontColor=ffffff&fontSize=28&animation=twinkling"
     width="100%"
+    alt="Current Focus"
   />
 </p>
 
@@ -108,113 +115,86 @@ I work across **full-stack development, mobile applications, cloud computing, De
 <tr>
 
 <td align="center" width="16%">
-
-### 🤖
-
-**AI**
-
-Automation  
+<h3>🤖</h3>
+<b>AI</b><br/>
+Automation<br/>
 AI Agents
-
 </td>
 
 <td align="center" width="16%">
-
-### ⚡
-
-**n8n**
-
-Workflows  
+<h3>⚡</h3>
+<b>n8n</b><br/>
+Workflows<br/>
 Integrations
-
 </td>
 
 <td align="center" width="16%">
-
-### ☁️
-
-**AWS**
-
-Cloud  
+<h3>☁️</h3>
+<b>AWS</b><br/>
+Cloud<br/>
 Infrastructure
-
 </td>
 
 <td align="center" width="16%">
-
-### 🐳
-
-**Docker**
-
-Containers  
+<h3>🐳</h3>
+<b>Docker</b><br/>
+Containers<br/>
 Deployment
-
 </td>
 
 <td align="center" width="16%">
-
-### 💻
-
-**Full Stack**
-
-Web  
+<h3>💻</h3>
+<b>Full Stack</b><br/>
+Web<br/>
 Mobile
-
 </td>
 
 <td align="center" width="16%">
-
-### 💼
-
-**Freelancing**
-
-Projects  
+<h3>💼</h3>
+<b>Freelancing</b><br/>
+Projects<br/>
 Products
-
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Building+%E2%86%92+Learning+%E2%86%92+Automating+%E2%86%92+Deploying;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80"
-    alt="Current Focus Animation"
+    alt="Focus Animation"
   />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                       TECH STACK                           -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e293b&text=🛠️%20TECH%20STACK&fontColor=ffffff&fontSize=28&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:1e293b&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontColor=ffffff&fontSize=28&animation=fadeIn"
     width="100%"
+    alt="Tech Stack"
   />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react" alt="Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,expo,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=reactnative,expo,nodejs,express,tailwind,bootstrap" alt="Frontend Backend"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,oracle,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,oracle,docker,linux" alt="Database Cloud DevOps"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,nginx,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,nginx,postman,vscode" alt="Tools"/>
 </p>
-
-<br>
 
 <table align="center">
 <tr>
@@ -252,10 +232,7 @@ EJS
 Node.js  
 Express.js  
 REST APIs  
-Authentication  
-MongoDB  
-MySQL  
-SQL Server
+Authentication
 
 </td>
 
@@ -276,16 +253,17 @@ GitHub
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        AI STACK                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    AI & AUTOMATION                         -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:172554,100:312e81&text=🤖%20AI%20%26%20AUTOMATION&fontColor=ffffff&fontSize=28&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:172554,100:312e81&text=%F0%9F%A4%96%20AI%20%26%20AUTOMATION&fontColor=ffffff&fontSize=28&animation=twinkling"
     width="100%"
+    alt="AI Automation"
   />
 </p>
 
@@ -293,60 +271,50 @@ GitHub
 <tr>
 
 <td align="center" width="25%">
-
-### ⚡ n8n
-
+<h3>⚡</h3>
+<b>n8n</b><br/>
 Workflow Automation
-
 </td>
 
 <td align="center" width="25%">
-
-### ✨ Gemini
-
+<h3>✨</h3>
+<b>Gemini</b><br/>
 AI Applications
-
 </td>
 
 <td align="center" width="25%">
-
-### 🧠 OpenAI
-
+<h3>🧠</h3>
+<b>OpenAI</b><br/>
 AI APIs
-
 </td>
 
 <td align="center" width="25%">
-
-### 🔧 AI Agents
-
-Automation  
-Prompt Engineering
-
+<h3>🔧</h3>
+<b>AI Agents</b><br/>
+Automation
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Automating+Business+Workflows+%F0%9F%A4%96;Connecting+APIs+%2B+AI+%2B+Automation;Building+Smarter+Workflows+with+n8n"
-    alt="AI Automation Animation"
+    alt="AI Animation"
   />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e293b&text=🚀%20FEATURED%20PROJECTS&fontColor=ffffff&fontSize=28&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:1e293b&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontColor=ffffff&fontSize=28&animation=twinkling"
     width="100%"
+    alt="Featured Projects"
   />
 </p>
 
@@ -366,7 +334,7 @@ A full-stack property leasing platform connecting **property owners, brokers and
 `React Native` `Expo` `TypeScript`  
 `Node.js` `Express.js` `MongoDB`
 
-**Features**
+### ✨ Features
 
 - 🏠 Property Listings
 - 🔎 Search & Filtering
@@ -379,11 +347,13 @@ A full-stack property leasing platform connecting **property owners, brokers and
 
 <p align="center">
 <a href="https://github.com/NamanJain19/LeaseHub">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BB%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="LeaseHub GitHub"/>
 </a>
+</p>
 
+<p align="center">
 <a href="https://github.com/NamanJain19/LeaseHub/releases/latest">
-<img src="https://img.shields.io/badge/📱%20Android-APK-16a34a?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%B1%20Android-Download%20APK-16a34a?style=for-the-badge&logo=android&logoColor=white" alt="LeaseHub APK"/>
 </a>
 </p>
 
@@ -395,14 +365,14 @@ A full-stack property leasing platform connecting **property owners, brokers and
 
 ### Bike Sales Lead Management System
 
-A professional CRM designed for bike dealerships to manage leads, customers, follow-ups and sales analytics.
+A professional CRM for bike dealerships to manage leads, customers, follow-ups and sales analytics.
 
 **Tech Stack**
 
 `Node.js` `Express.js` `EJS`  
 `MongoDB` `Bootstrap`
 
-**Features**
+### ✨ Features
 
 - 📊 Dashboard
 - 👥 Lead Management
@@ -415,7 +385,7 @@ A professional CRM designed for bike dealerships to manage leads, customers, fol
 
 <p align="center">
 <a href="https://github.com/NamanJain19">
-<img src="https://img.shields.io/badge/💻%20Projects-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BB%20View%20Projects-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Projects"/>
 </a>
 </p>
 
@@ -424,7 +394,7 @@ A professional CRM designed for bike dealerships to manage leads, customers, fol
 </tr>
 </table>
 
-<br>
+<br/>
 
 <table align="center">
 <tr>
@@ -441,7 +411,7 @@ A data analytics project focused on transforming sales data into useful business
 
 `SQL` `Power BI` `Excel`
 
-**Focus**
+### Focus
 
 - Data Cleaning
 - SQL Analysis
@@ -458,13 +428,13 @@ A data analytics project focused on transforming sales data into useful business
 
 ### Intelligent Business Workflows
 
-Automation workflows designed using AI and no-code/low-code tools.
+Automation workflows built using AI and integration tools.
 
 **Technology**
 
 `n8n` `Gemini API` `OpenAI API`
 
-**Integrations**
+### Integrations
 
 - Gmail
 - Google Sheets
@@ -478,16 +448,17 @@ Automation workflows designed using AI and no-code/low-code tools.
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       LEASEHUB SHOWCASE                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                      LEASEHUB SHOWCASE                     -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:020617,50:172554,100:1e3a8a&text=🏢%20LEASEHUB%20SHOWCASE&fontColor=ffffff&fontSize=30&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:020617,50:172554,100:1e3a8a&text=%F0%9F%8F%A2%20LEASEHUB%20SHOWCASE&fontColor=ffffff&fontSize=30&animation=twinkling"
     width="100%"
+    alt="LeaseHub Showcase"
   />
 </p>
 
@@ -503,36 +474,36 @@ Automation workflows designed using AI and no-code/low-code tools.
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=NamanJain19&repo=LeaseHub&theme=github_dark&hide_border=true"
       width="450"
+      alt="LeaseHub GitHub Card"
     />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/NamanJain19/LeaseHub/releases/latest">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B1%20DOWNLOAD%20ANDROID%20APK-AVAILABLE-16a34a?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+  </a>
 
-<a href="https://github.com/NamanJain19/LeaseHub/releases/latest">
-<img src="https://img.shields.io/badge/📱%20DOWNLOAD%20ANDROID%20APK-AVAILABLE-16a34a?style=for-the-badge&logo=android&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NamanJain19/LeaseHub">
-<img src="https://img.shields.io/badge/💻%20VIEW%20SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/NamanJain19/LeaseHub">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BB%20VIEW%20SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
 </p>
 
 <p align="center">
   <b>Android APK available for testing • Not currently published on Google Play Store or Apple App Store</b>
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB ANALYTICS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                  REAL GITHUB ANALYTICS                     -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e293b&text=📊%20GITHUB%20ANALYTICS&fontColor=ffffff&fontSize=28&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:1e293b&text=%F0%9F%93%8A%20LIVE%20GITHUB%20ANALYTICS&fontColor=ffffff&fontSize=28&animation=fadeIn"
     width="100%"
+    alt="GitHub Analytics"
   />
 </p>
 
@@ -544,6 +515,7 @@ Automation workflows designed using AI and no-code/low-code tools.
 <img
   src="https://github-readme-stats.vercel.app/api?username=NamanJain19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   width="100%"
+  alt="Naman Jain GitHub Stats"
 />
 
 </td>
@@ -553,6 +525,7 @@ Automation workflows designed using AI and no-code/low-code tools.
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanJain19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   width="100%"
+  alt="Top Languages"
 />
 
 </td>
@@ -560,47 +533,47 @@ Automation workflows designed using AI and no-code/low-code tools.
 </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=NamanJain19&theme=tokyonight&hide_border=true"
     width="70%"
+    alt="GitHub Streak"
   />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION ACTIVITY                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                 REAL CONTRIBUTION ACTIVITY                 -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e293b&text=📈%20CONTRIBUTION%20ACTIVITY&fontColor=ffffff&fontSize=28&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:1e293b&text=%F0%9F%93%88%20REAL%20CONTRIBUTION%20ACTIVITY&fontColor=ffffff&fontSize=28&animation=twinkling"
     width="100%"
+    alt="Contribution Activity"
   />
 </p>
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=NamanJain19&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  width="95%"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NamanJain19&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITSKINS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    REAL SOCIAL LINKS                       -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e293b&text=⚡%20ACTIVITY%20%26%20SOCIAL&fontColor=ffffff&fontSize=28&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:1e293b&text=%E2%9A%A1%20SOCIAL%20%26%20ONLINE%20PRESENCE&fontColor=ffffff&fontSize=28&animation=twinkling"
     width="100%"
+    alt="Social Links"
   />
 </p>
 
@@ -612,37 +585,79 @@ Automation workflows designed using AI and no-code/low-code tools.
   />
 </p>
 
-<br>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+
+<a href="https://personal-portfolio-git-main-namanjain19s-projects.vercel.app">
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://linkedin.com/in/naman-jain-513267364">
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://orcid.org/0009-0001-4914-0907">
+<img src="https://img.shields.io/badge/%F0%9F%93%9A%20ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://instagram.com/namanjain9083">
+<img src="https://img.shields.io/badge/%F0%9F%93%B7%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://youtube.com/@namanjain6952">
+<img src="https://img.shields.io/badge/%F0%9F%93%BA%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100065545628746">
+<img src="https://img.shields.io/badge/%F0%9F%93%98%20Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+</p>
+
+<p align="center">
+
+👻 **Snapchat:** `@namanjain1420`
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                REAL CONTRIBUTION SNAKE                     -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e293b&text=🐍%20CONTRIBUTION%20SNAKE&fontColor=ffffff&fontSize=28&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:1e293b&text=%F0%9F%90%8D%20REAL%20CONTRIBUTION%20SNAKE&fontColor=ffffff&fontSize=28&animation=fadeIn"
     width="100%"
+    alt="Contribution Snake"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/NamanJain19/NamanJain19/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
     alt="GitHub Contribution Snake"
-    width="90%"
   />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CLOUD & DEVOPS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                     CLOUD & DEVOPS                         -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0f172a,100:164e63&text=☁️%20CLOUD%20%26%20DEVOPS&fontColor=ffffff&fontSize=28&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0f172a,100:164e63&text=%E2%98%81%EF%B8%8F%20CLOUD%20%26%20DEVOPS&fontColor=ffffff&fontSize=28&animation=twinkling"
     width="100%"
+    alt="Cloud DevOps"
   />
 </p>
 
@@ -650,41 +665,29 @@ Automation workflows designed using AI and no-code/low-code tools.
 <tr>
 
 <td align="center" width="25%">
-
-### ☁️ AWS
-
-Cloud Computing  
-Infrastructure  
+<h3>☁️ AWS</h3>
+Cloud Computing<br/>
+Infrastructure<br/>
 Deployment
-
 </td>
 
 <td align="center" width="25%">
-
-### ☁️ Oracle Cloud
-
-Cloud Hosting  
+<h3>☁️ Oracle Cloud</h3>
+Cloud Hosting<br/>
 Deployment
-
 </td>
 
 <td align="center" width="25%">
-
-### 🐳 Docker
-
-Containers  
+<h3>🐳 Docker</h3>
+Containers<br/>
 Application Deployment
-
 </td>
 
 <td align="center" width="25%">
-
-### 🐧 Linux
-
-Servers  
-Nginx  
+<h3>🐧 Linux</h3>
+Servers<br/>
+Nginx<br/>
 System Administration
-
 </td>
 
 </tr>
@@ -693,20 +696,21 @@ System Administration
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Build+%E2%80%A2+Containerize+%E2%80%A2+Deploy;Learning+Cloud+%26+DevOps+Step+by+Step"
-    alt="Cloud DevOps Animation"
+    alt="Cloud Animation"
   />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          2026 GOALS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                         2026 GOALS                         -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:312e81&text=🎯%202026%20GOALS&fontColor=ffffff&fontSize=28&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,100:312e81&text=%F0%9F%8E%AF%202026%20GOALS&fontColor=ffffff&fontSize=28&animation=fadeIn"
     width="100%"
+    alt="2026 Goals"
   />
 </p>
 
@@ -714,51 +718,28 @@ System Administration
 <tr>
 
 <td align="center" width="20%">
-
-### 🤖
-
-AI Automation
-
+<h3>🤖</h3>
+<b>AI Automation</b>
 </td>
 
 <td align="center" width="20%">
-
-### ☁️
-
-AWS
-
-Certification
-
+<h3>☁️</h3>
+<b>AWS Certification</b>
 </td>
 
 <td align="center" width="20%">
-
-### 🚀
-
-SaaS
-
-Products
-
+<h3>🚀</h3>
+<b>SaaS Products</b>
 </td>
 
 <td align="center" width="20%">
-
-### 💼
-
-Freelance
-
-Development
-
+<h3>💼</h3>
+<b>Freelance Development</b>
 </td>
 
 <td align="center" width="20%">
-
-### ⚙️
-
-Cloud &
-
-DevOps
-
+<h3>⚙️</h3>
+<b>Cloud & DevOps</b>
 </td>
 
 </tr>
@@ -771,52 +752,57 @@ DevOps
   />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         CONNECT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                         CONNECT                             -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:020617,50:172554,100:312e81&text=🌐%20LET'S%20CONNECT&fontColor=ffffff&fontSize=29&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:020617,50:172554,100:312e81&text=%F0%9F%8C%90%20LET'S%20CONNECT&fontColor=ffffff&fontSize=29&animation=twinkling"
     width="100%"
+    alt="Connect"
   />
 </p>
 
 <p align="center">
   <a href="https://personal-portfolio-git-main-namanjain19s-projects.vercel.app">
-    <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;
+
   <a href="https://linkedin.com/in/naman-jain-513267364">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+
   <a href="https://orcid.org/0009-0001-4914-0907">
-    <img src="https://img.shields.io/badge/📚%20ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%9A%20ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://instagram.com/namanjain9083">
-    <img src="https://img.shields.io/badge/📷%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;
+
   <a href="https://youtube.com/@namanjain6952">
-    <img src="https://img.shields.io/badge/📺%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%BA%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/NamanJain19">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://www.facebook.com/profile.php?id=100065545628746">
+    <img src="https://img.shields.io/badge/%F0%9F%93%98%20Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
-<br>
+<p align="center">
+  👻 <b>Snapchat:</b> @namanjain1420
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
+
+<!-- ========================================================= -->
+<!--                         FOOTER                              -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
@@ -826,8 +812,13 @@ DevOps
 </p>
 
 <p align="center">
+  <b>“Code. Learn. Build. Repeat.”</b>
+</p>
+
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:111827,100:1e3a8a&animation=twinkling"
     width="100%"
+    alt="Footer"
   />
 </p>
