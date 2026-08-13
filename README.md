@@ -12,7 +12,6 @@
 
 ![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=NamanJain19&theme=github-dark&style=aura)
 
-
 # Hi 👋 I'm Naman Jain
 
 <div align="center">
