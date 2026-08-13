@@ -36,6 +36,8 @@
 
 <div align="center">
 
+<img src="https://www.gitskins.com/api/section/hero?username=NamanJain19&theme=github-dark&style=aura" alt="GitSkins Animated Hero" width="860" />
+
 ### 🚀 Full Stack Developer • Cloud Computing Intern • AI Automation Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Cloud+Computing+Intern;AI+Automation+Engineer;AWS+%7C+Oracle+Cloud+Learner;Building+MotoCRM+%26+Automation+Projects" />
