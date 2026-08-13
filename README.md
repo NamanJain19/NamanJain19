@@ -1,4 +1,38 @@
-# Hi 👋 I'm Naman Jain
+<div align="center">
+
+<h3><code>namanjain19@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=namanjain19&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=namanjain19&theme=aurora&style=terminal&mode=dark" width="100%" alt="namanjain19 portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=namanjain19&theme=aurora&style=terminal&label=Naman+jain&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=namanjain19&theme=aurora&style=terminal&label=Naman+jain&mode=dark" width="100%" alt="namanjain19 wordmark" />
+</picture></td>
+</tr>
+</table>
+
+<p><b>Full Stack Developer | Cloud Computing Intern | AI Automation </b></p>
+
+<p><a href="https://github.com/namanjain19">GitHub</a> &nbsp;·&nbsp; <a href="https://personal-portfolio-git-main-namanjain19s-projects.vercel.app">Website</a></p>
+
+</div>
+
+<div align="center">
+
+<h3><code>namanjain19@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=namanjain19&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=namanjain19&theme=aurora&style=terminal&mode=dark" width="100%" alt="namanjain19 heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>Naman jain · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p># Hi 👋 I'm Naman Jain
 
 <div align="center">
 
