@@ -1,4 +1,4 @@
-[![NamanJain19's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=NamanJain19&theme=winter&style=aura)](https://www.gitskins.com/showcase/NamanJain19?skin=frosted)
+https://www.gitskins.com/showcase/NamanJain19?skin=frosted
 
 
 # Hi 👋 I'm Naman Jain
