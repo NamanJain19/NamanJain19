@@ -41,7 +41,7 @@ https://www.gitskins.com/showcase/NamanJain19?skin=frosted
 # 🛠 Tech Stack
 
 ## Languages
-Java • JavaScript • TypeScript • Python • C • C++ • PHP
+Java • JavaScript • TypeScript • Python • React Native
 
 ## Frontend
 HTML5 • CSS3 • Bootstrap • Tailwind CSS • EJS
