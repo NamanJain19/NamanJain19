@@ -32,11 +32,12 @@
 
 </div>
 
-<p align="center"><sub>Naman jain · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p># Hi 👋 I'm Naman Jain
+<p align="center"><sub>Naman jain · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<img src="https://www.gitskins.com/api/section/hero?username=NamanJain19&theme=github-dark&style=aura" alt="GitSkins Animated Hero" width="860" />
+
+# Hi 👋 I'm Naman Jain
 
 <div align="center">
-
-<img src="https://www.gitskins.com/api/section/hero?username=NamanJain19&theme=github-dark&style=aura" alt="GitSkins Animated Hero" width="860" />
 
 ### 🚀 Full Stack Developer • Cloud Computing Intern • AI Automation Enthusiast
 
