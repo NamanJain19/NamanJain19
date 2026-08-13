@@ -1,4 +1,16 @@
-https://www.gitskins.com/showcase/NamanJain19?skin=frosted
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=NamanJain19&theme=github-dark&style=aura)
+
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=NamanJain19&theme=github-dark&style=aura)
+
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=NamanJain19&theme=github-dark&style=aura)
+
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=NamanJain19&theme=github-dark&style=aura)
+
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=NamanJain19&theme=github-dark&style=aura)
+
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=NamanJain19&theme=github-dark&style=aura)
+
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=NamanJain19&theme=github-dark&style=aura)
 
 
 # Hi 👋 I'm Naman Jain
